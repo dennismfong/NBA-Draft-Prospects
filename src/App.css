@@ -1,0 +1,38 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 120px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 40px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.Player {
+  height: 200px;
+  padding: 20px;
+  padding-top: 300px;
+}
+
+.First-Player {
+	height: 200px;
+	padding: 20px;
+}
+
+.Player-Title {
+	font-size: 1.5em;
+}
+
+.Plot{
+	margin: auto;
+}
